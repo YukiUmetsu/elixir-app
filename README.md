@@ -8,4 +8,4 @@ You can create decks, hands like when you play a card game.
 Provide a string to Identicon.main function and it creates a symmentric icon image.
 Example
 `iex> Identicon.main('Elixir')`
-It creates an png image.
+It creates a png image.
